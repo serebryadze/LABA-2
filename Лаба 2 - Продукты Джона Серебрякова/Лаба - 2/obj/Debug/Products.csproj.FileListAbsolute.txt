@@ -1,0 +1,75 @@
+C:\Users\HP\Desktop\Новая папка\Products\bin\Debug\Products.exe.config
+C:\Users\HP\Desktop\Новая папка\Products\bin\Debug\Products.exe
+C:\Users\HP\Desktop\Новая папка\Products\bin\Debug\Products.pdb
+C:\Users\HP\Desktop\Новая папка\Products\obj\Debug\Products.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\Новая папка\Products\obj\Debug\MainWindow.g.cs
+C:\Users\HP\Desktop\Новая папка\Products\obj\Debug\App.g.cs
+C:\Users\HP\Desktop\Новая папка\Products\obj\Debug\Products_MarkupCompile.cache
+C:\Users\HP\Desktop\Новая папка\Products\obj\Debug\Products_MarkupCompile.lref
+C:\Users\HP\Desktop\Новая папка\Products\obj\Debug\MainWindow.baml
+C:\Users\HP\Desktop\Новая папка\Products\obj\Debug\Products.g.resources
+C:\Users\HP\Desktop\Новая папка\Products\obj\Debug\Products.Properties.Resources.resources
+C:\Users\HP\Desktop\Новая папка\Products\obj\Debug\Products.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\Новая папка\Products\obj\Debug\Products.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Новая папка\Products\obj\Debug\Products.exe
+C:\Users\HP\Desktop\Новая папка\Products\obj\Debug\Products.pdb
+C:\ТП2\Products\bin\Debug\Products.exe.config
+C:\ТП2\Products\bin\Debug\Products.exe
+C:\ТП2\Products\bin\Debug\Products.pdb
+C:\ТП2\Products\obj\Debug\Products.csprojAssemblyReference.cache
+C:\ТП2\Products\obj\Debug\MainWindow.g.cs
+C:\ТП2\Products\obj\Debug\App.g.cs
+C:\ТП2\Products\obj\Debug\Products_MarkupCompile.cache
+C:\ТП2\Products\obj\Debug\Products_MarkupCompile.lref
+C:\ТП2\Products\obj\Debug\MainWindow.baml
+C:\ТП2\Products\obj\Debug\Products.g.resources
+C:\ТП2\Products\obj\Debug\Products.Properties.Resources.resources
+C:\ТП2\Products\obj\Debug\Products.csproj.GenerateResource.cache
+C:\ТП2\Products\obj\Debug\Products.csproj.CoreCompileInputs.cache
+C:\ТП2\Products\obj\Debug\Products.exe
+C:\ТП2\Products\obj\Debug\Products.pdb
+C:\Users\Максим\Desktop\Risenr31-product-60f5040a4e9d\Products\bin\Debug\Products.exe.config
+C:\Users\Максим\Desktop\Risenr31-product-60f5040a4e9d\Products\bin\Debug\Products.exe
+C:\Users\Максим\Desktop\Risenr31-product-60f5040a4e9d\Products\bin\Debug\Products.pdb
+C:\Users\Максим\Desktop\Risenr31-product-60f5040a4e9d\Products\obj\Debug\Products.csprojAssemblyReference.cache
+C:\Users\Максим\Desktop\Risenr31-product-60f5040a4e9d\Products\obj\Debug\MainWindow.g.cs
+C:\Users\Максим\Desktop\Risenr31-product-60f5040a4e9d\Products\obj\Debug\App.g.cs
+C:\Users\Максим\Desktop\Risenr31-product-60f5040a4e9d\Products\obj\Debug\Products_MarkupCompile.cache
+C:\Users\Максим\Desktop\Risenr31-product-60f5040a4e9d\Products\obj\Debug\Products_MarkupCompile.lref
+C:\Users\Максим\Desktop\Risenr31-product-60f5040a4e9d\Products\obj\Debug\MainWindow.baml
+C:\Users\Максим\Desktop\Risenr31-product-60f5040a4e9d\Products\obj\Debug\Products.g.resources
+C:\Users\Максим\Desktop\Risenr31-product-60f5040a4e9d\Products\obj\Debug\Products.Properties.Resources.resources
+C:\Users\Максим\Desktop\Risenr31-product-60f5040a4e9d\Products\obj\Debug\Products.csproj.GenerateResource.cache
+C:\Users\Максим\Desktop\Risenr31-product-60f5040a4e9d\Products\obj\Debug\Products.csproj.CoreCompileInputs.cache
+C:\Users\Максим\Desktop\Risenr31-product-60f5040a4e9d\Products\obj\Debug\Products.exe
+C:\Users\Максим\Desktop\Risenr31-product-60f5040a4e9d\Products\obj\Debug\Products.pdb
+C:\Users\Максим\Desktop\ТП 2год\Лаба 2 - Продукты\Лаба - 2\bin\Debug\Products.exe.config
+C:\Users\Максим\Desktop\ТП 2год\Лаба 2 - Продукты\Лаба - 2\bin\Debug\Products.exe
+C:\Users\Максим\Desktop\ТП 2год\Лаба 2 - Продукты\Лаба - 2\bin\Debug\Products.pdb
+C:\Users\Максим\Desktop\ТП 2год\Лаба 2 - Продукты\Лаба - 2\obj\Debug\Products.csprojAssemblyReference.cache
+C:\Users\Максим\Desktop\ТП 2год\Лаба 2 - Продукты\Лаба - 2\obj\Debug\MainWindow.g.cs
+C:\Users\Максим\Desktop\ТП 2год\Лаба 2 - Продукты\Лаба - 2\obj\Debug\App.g.cs
+C:\Users\Максим\Desktop\ТП 2год\Лаба 2 - Продукты\Лаба - 2\obj\Debug\Products_MarkupCompile.cache
+C:\Users\Максим\Desktop\ТП 2год\Лаба 2 - Продукты\Лаба - 2\obj\Debug\Products_MarkupCompile.lref
+C:\Users\Максим\Desktop\ТП 2год\Лаба 2 - Продукты\Лаба - 2\obj\Debug\MainWindow.baml
+C:\Users\Максим\Desktop\ТП 2год\Лаба 2 - Продукты\Лаба - 2\obj\Debug\Products.g.resources
+C:\Users\Максим\Desktop\ТП 2год\Лаба 2 - Продукты\Лаба - 2\obj\Debug\Products.Properties.Resources.resources
+C:\Users\Максим\Desktop\ТП 2год\Лаба 2 - Продукты\Лаба - 2\obj\Debug\Products.csproj.GenerateResource.cache
+C:\Users\Максим\Desktop\ТП 2год\Лаба 2 - Продукты\Лаба - 2\obj\Debug\Products.csproj.CoreCompileInputs.cache
+C:\Users\Максим\Desktop\ТП 2год\Лаба 2 - Продукты\Лаба - 2\obj\Debug\Products.exe
+C:\Users\Максим\Desktop\ТП 2год\Лаба 2 - Продукты\Лаба - 2\obj\Debug\Products.pdb
+C:\Users\Максим\Desktop\ТП 2год\Лаба 2 - Продукты Джона Серебрякова\Лаба - 2\bin\Debug\Products.exe.config
+C:\Users\Максим\Desktop\ТП 2год\Лаба 2 - Продукты Джона Серебрякова\Лаба - 2\bin\Debug\Products.exe
+C:\Users\Максим\Desktop\ТП 2год\Лаба 2 - Продукты Джона Серебрякова\Лаба - 2\bin\Debug\Products.pdb
+C:\Users\Максим\Desktop\ТП 2год\Лаба 2 - Продукты Джона Серебрякова\Лаба - 2\obj\Debug\Products.csprojAssemblyReference.cache
+C:\Users\Максим\Desktop\ТП 2год\Лаба 2 - Продукты Джона Серебрякова\Лаба - 2\obj\Debug\MainWindow.g.cs
+C:\Users\Максим\Desktop\ТП 2год\Лаба 2 - Продукты Джона Серебрякова\Лаба - 2\obj\Debug\App.g.cs
+C:\Users\Максим\Desktop\ТП 2год\Лаба 2 - Продукты Джона Серебрякова\Лаба - 2\obj\Debug\Products_MarkupCompile.cache
+C:\Users\Максим\Desktop\ТП 2год\Лаба 2 - Продукты Джона Серебрякова\Лаба - 2\obj\Debug\Products_MarkupCompile.lref
+C:\Users\Максим\Desktop\ТП 2год\Лаба 2 - Продукты Джона Серебрякова\Лаба - 2\obj\Debug\MainWindow.baml
+C:\Users\Максим\Desktop\ТП 2год\Лаба 2 - Продукты Джона Серебрякова\Лаба - 2\obj\Debug\Products.g.resources
+C:\Users\Максим\Desktop\ТП 2год\Лаба 2 - Продукты Джона Серебрякова\Лаба - 2\obj\Debug\Products.Properties.Resources.resources
+C:\Users\Максим\Desktop\ТП 2год\Лаба 2 - Продукты Джона Серебрякова\Лаба - 2\obj\Debug\Products.csproj.GenerateResource.cache
+C:\Users\Максим\Desktop\ТП 2год\Лаба 2 - Продукты Джона Серебрякова\Лаба - 2\obj\Debug\Products.csproj.CoreCompileInputs.cache
+C:\Users\Максим\Desktop\ТП 2год\Лаба 2 - Продукты Джона Серебрякова\Лаба - 2\obj\Debug\Products.exe
+C:\Users\Максим\Desktop\ТП 2год\Лаба 2 - Продукты Джона Серебрякова\Лаба - 2\obj\Debug\Products.pdb
